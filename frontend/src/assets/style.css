@@ -1,0 +1,10 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial;
+}
+
+.action span {
+	margin-right: 5px;
+	font-size: .9rem;
+}
